@@ -5,11 +5,12 @@
 Introduction
 This portfolio project is a data analysis. The purpose of this project is to demonstrate my skills in data analysis and visualization, and to showcase my ability to communicate insights from data.
 
-Data
+## Data
 
 The data for this analysis was obtained from Kaggle, Ourworldindata.
 
-Analysis
+## Analysis
+
 The analysis was performed using SQL and  Python  with the following libraries:
 
 Pandas for data manipulation
