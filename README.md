@@ -17,10 +17,10 @@ Matplotlib and Seaborn for data visualization
 
 The analysis includes the following steps:
 
-1.Data cleaning and preprocessing
+1. Data cleaning and preprocessing
 
-2.Exploratory data analysis to understand the distribution and relationships between variables
+2. Exploratory data analysis to understand the distribution and relationships between variables
 
-3.Statistical analysis to test hypotheses and identify significant factors
+3. Statistical analysis to test hypotheses and identify significant factors
 
-4.Data visualization to communicate insights and findings
+4. Data visualization to communicate insights and findings
