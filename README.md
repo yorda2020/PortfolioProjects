@@ -2,8 +2,7 @@
 
 # Data Analysis Portfolio Project
 
-Introduction
-This portfolio project is a data analysis. The purpose of this project is to demonstrate my skills in data analysis and visualization, and to showcase my ability to communicate insights from data.
+This is a data analysis portfolio project. The purpose of this project is to demonstrate my skills in data analysis and visualization, and to showcase my ability to communicate insights from data.
 
 ## Data
 
@@ -11,7 +10,7 @@ The data for this analysis was obtained from Kaggle, Ourworldindata.
 
 ## Analysis
 
-The analysis was performed using SQL and  Python  with the following libraries:
+The analysis was performed using  Microsoft Power bi, SQL and  Python  with the following libraries:
 
 Pandas for data manipulation
 Matplotlib and Seaborn for data visualization
