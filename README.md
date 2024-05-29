@@ -10,7 +10,7 @@ The data for this analysis was obtained from Kaggle and Ourworldindata.
 
 ## Analysis
 
-The analysis was performed using  Microsoft Power bi, SQL and  Python  with the following libraries:
+The analysis is performed using Microsoft Power BI, SQL, and Python with the following libraries:
 
 Pandas for data manipulation
 Matplotlib and Seaborn for data visualization
