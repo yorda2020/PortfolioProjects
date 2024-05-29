@@ -6,7 +6,7 @@ This is a data analysis portfolio project. The purpose of this project is to dem
 
 ## Data
 
-The data for this analysis was obtained from Kaggle, Ourworldindata.
+The data for this analysis was obtained from Kaggle and Ourworldindata.
 
 ## Analysis
 
